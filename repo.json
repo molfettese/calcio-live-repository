@@ -1,0 +1,41 @@
+{
+  "name": "Calcio Live",
+  "version": "1.0",
+  "providers": [
+    {
+      "name": "Streaming TV Body",
+      "url": "https://lollolmolfettese.blogspot.com/2025/03/streaming-tv-body-font-family-arial.html",
+      "description": "Flussi di streaming per eventi calcistici."
+    },
+    {
+      "name": "Todos Football",
+      "url": "https://lollolmolfettese.blogspot.com/2025/02/todos-football.html",
+      "description": "Tutti gli eventi calcistici in diretta."
+    },
+    {
+      "name": "Post 1",
+      "url": "https://lollolmolfettese.blogspot.com/2025/02/blog-post_1.html",
+      "description": "Contenuti calcistici vari."
+    },
+    {
+      "name": "SportZone",
+      "url": "https://lollolmolfettese.blogspot.com/2025/02/sportzone.html",
+      "description": "Sportzone, dove trovare partite di calcio in streaming."
+    },
+    {
+      "name": "Adult TV Channels",
+      "url": "https://adult-tv-channels.com/",
+      "description": "Sito di streaming per cntenuti adulti."
+    },
+    {
+      "name": "Streaming Community",
+      "url": "https://streamingcommunity.lu/",
+      "description": "Community di streaming con eventi di cinema serie tv."
+    },
+    {
+      "name": "Guida Streaming Senza Intoppi",
+      "url": "https://lollolmolfettese.blogspot.com/2025/02/per-vedere-lo-streaming-senza-intoppi-o.html",
+      "description": "Guida su come guardare il calcio in streaming senza problemi."
+    }
+  ]
+}
